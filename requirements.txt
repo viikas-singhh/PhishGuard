@@ -1,0 +1,5 @@
+aiogram>=3.7,<4
+aiohttp>=3.9
+rapidfuzz>=3
+tldextract>=5
+python-dotenv>=1
